@@ -1,16 +1,3 @@
-# Trabalho 1 - Sistemas Operacionais 20178/1
-Prof. Maurício Lima Pilla - http://lups.inf.ufpel.edu.br/~pilla
-
-## Dados do aluno
-
-Declaro que o presente trabalho contém código desenvolvido exclusivamente por mim e que não foi compartilhado de nenhuma forma com terceiros a não ser o professor da disciplina. Compreendo que qualquer violação destes princípios será punida rigorosamente de acordo com o Regimento da UFPEL.
-
-(Preencha com seus dados)
-
-- Nome completo: Rafael de Sousa Nascimento
-- Username do Bitbucket: rdsnascimento
-- Email @inf: rdsnascimento@inf.ufpel.edu.br
-
 ## Descrição
 
 Neste trabalho, os alunos irão desenvolver um programa em C usando POSIX Threads para simular um roteador IPv4 CIDR (_Classless Inter-Domain Routing_) [1] com um _firewall_. 
@@ -48,14 +35,6 @@ Cada trabalho deverá fornecer exemplos de testes no arquivo *teste.c* usando a 
 * Envio da versão sequencial com casos de teste: _16/04/2018_ (2 pontos)
 * Envio da versão final paralela: _30/04/2018_ (8 pontos)
 
-
-## Correção
-
-Quando o aluno fizer o _fork_ deste repositório, deverá incluir o professor como _admin_ (veja o tutorial para ver como fazer).
-
-Para realizar a correção do trabalho, o aluno deverá criar uma _issue_ e colocar o professor (_mlpilla_) como _assignee_ até o prazo final. O trabalho deve estar executando os testes que serão fornecidos pelo professor.
-
-Trabalhos sem histórico de _commits_ adequado terão descontos na nota, podendo inclusive chegar à nota _zero_.
 
 ## Problemas a considerar
 
