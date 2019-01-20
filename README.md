@@ -42,6 +42,5 @@ Cada trabalho deverá fornecer exemplos de testes no arquivo *teste.c* usando a 
 
 ## Referências
 
-
 * [1] [CIDR na Wikipedia](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing)
 * [2] [Tutorial sobre POSIX Threads](https://computing.llnl.gov/tutorials/pthreads/)
