@@ -30,12 +30,6 @@ Cada trabalho deverá fornecer exemplos de testes no arquivo *teste.c* usando a 
 * Implementação (*roteamento.c*, *roteamentot.c*)
 * Casos de teste documentados (*teste.c*)
 
-## Cronograma
-
-* Envio da versão sequencial com casos de teste: _16/04/2018_ (2 pontos)
-* Envio da versão final paralela: _30/04/2018_ (8 pontos)
-
-
 ## Problemas a considerar
 
 1. Como implementar a fila?
