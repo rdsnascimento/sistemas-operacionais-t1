@@ -7,8 +7,7 @@ O problema de encaminhamento de pacotes no IPv4 CIDR é um caso típico de busca
         19.5.0.0/16 2
         19.5.5.0/24 1
 
-Na primeira linha, especificou-se que todos os pacotes com endereços de destino entre 19.5.0.0 e 19.5.255.255 devem ser encaminhados para o enlace _2_.
- Porém, a segunda linha possui um prefixo de maior comprimento e todos os endereços entre 19.5.5.0 e 19.5.5.255 são encaminhados para o enlace _1_. Quanto maior o prefixo, maior sua prioridade.
+Na primeira linha, especificou-se que todos os pacotes com endereços de destino entre 19.5.0.0 e 19.5.255.255 devem ser encaminhados para o enlace _2_. Porém, a segunda linha possui um prefixo de maior comprimento e todos os endereços entre 19.5.5.0 e 19.5.5.255 são encaminhados para o enlace _1_. Quanto maior o prefixo, maior sua prioridade.
 
 No roteador simulado neste trabalho, uma fila de entrada representa os enlaces por onde chegam pacotes. Uma fila de saída representa os enlaces por onde os pacotes saem.
 
